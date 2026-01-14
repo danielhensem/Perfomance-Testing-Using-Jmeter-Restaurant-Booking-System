@@ -1,0 +1,121 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1768370725752,110,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-1,text,true,,5792,243,2,2,http://localhost/dashboard/,87,0,66
+1768370725752,100,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-1,text,true,,295,121,2,2,http://localhost/index.php,87,0,66
+1768370725855,7,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-1,text,true,,5497,122,2,2,http://localhost/dashboard/,7,0,0
+1768370726493,13,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-2,text,true,,5792,243,2,2,http://localhost/dashboard/,8,0,2
+1768370726493,8,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-2,text,true,,295,121,2,2,http://localhost/index.php,8,0,2
+1768370726501,5,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-2,text,true,,5497,122,2,2,http://localhost/dashboard/,5,0,0
+1768370726872,6,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-1,text,false,,535,248,3,3,http://localhost/process_booking.php,6,0,0
+1768370727382,7,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-1,text,true,,5791,243,3,3,http://localhost/dashboard/,3,0,0
+1768370727382,3,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-1,text,true,,294,121,3,3,http://localhost/index.php,3,0,0
+1768370727385,4,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-1,text,true,,5497,122,3,3,http://localhost/dashboard/,4,0,0
+1768370727514,2,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-2,text,false,,535,248,4,4,http://localhost/process_booking.php,2,0,0
+1768370727518,10,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-3,text,true,,5792,243,4,4,http://localhost/dashboard/,5,0,1
+1768370727518,5,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-3,text,true,,295,121,4,4,http://localhost/index.php,5,0,1
+1768370727523,5,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-3,text,true,,5497,122,4,4,http://localhost/dashboard/,5,0,0
+1768370727892,5,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-1,text,false,,535,322,4,4,http://localhost/save_cart.php,5,0,0
+1768370728018,7,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-2,text,true,,5791,243,4,4,http://localhost/dashboard/,2,0,0
+1768370728018,2,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-2,text,true,,294,121,4,4,http://localhost/index.php,2,0,0
+1768370728021,4,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-2,text,true,,5497,122,4,4,http://localhost/dashboard/,4,0,0
+1768370728402,6,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-1,text,true,,5791,304,4,4,http://localhost/dashboard/,2,0,0
+1768370728402,2,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-1,text,true,,294,182,4,4,http://localhost/index.php,2,0,0
+1768370728404,4,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-1,text,true,,5497,122,4,4,http://localhost/dashboard/,4,0,0
+1768370728496,9,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-4,text,true,,5792,243,5,5,http://localhost/dashboard/,6,0,2
+1768370728496,6,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-4,text,true,,295,121,5,5,http://localhost/index.php,6,0,2
+1768370728502,3,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-4,text,true,,5497,122,5,5,http://localhost/dashboard/,3,0,0
+1768370728529,4,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-2,text,false,,535,322,5,5,http://localhost/save_cart.php,3,0,0
+1768370728530,4,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-3,text,false,,535,248,5,5,http://localhost/process_booking.php,4,0,0
+1768370729033,7,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-2,text,true,,5791,304,5,5,http://localhost/dashboard/,2,0,0
+1768370729033,2,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-2,text,true,,294,182,5,5,http://localhost/index.php,2,0,0
+1768370729036,4,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-2,text,true,,5497,122,5,5,http://localhost/dashboard/,3,0,0
+1768370729035,7,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-3,text,true,,5791,243,5,5,http://localhost/dashboard/,2,0,0
+1768370729035,2,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-3,text,true,,294,121,5,5,http://localhost/index.php,2,0,0
+1768370729037,5,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-3,text,true,,5497,122,5,5,http://localhost/dashboard/,5,0,0
+1768370729438,8,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-1,text,false,,535,194,5,5,http://localhost/process_payment.php,8,0,0
+1768370729496,7,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-5,text,true,,5792,243,5,5,http://localhost/dashboard/,3,0,1
+1768370729496,3,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-5,text,true,,295,121,5,5,http://localhost/index.php,3,0,1
+1768370729499,4,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-5,text,true,,5497,122,5,5,http://localhost/dashboard/,4,0,0
+1768370729511,3,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-4,text,false,,535,248,5,5,http://localhost/process_booking.php,3,0,0
+1768370729545,3,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-3,text,false,,535,322,5,5,http://localhost/save_cart.php,3,0,0
+1768370730030,6,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-4,text,true,,5791,243,5,5,http://localhost/dashboard/,2,0,0
+1768370730030,2,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-4,text,true,,294,121,5,5,http://localhost/index.php,2,0,0
+1768370730032,4,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-4,text,true,,5497,122,5,5,http://localhost/dashboard/,4,0,0
+1768370730041,4,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-2,text,false,,535,194,5,5,http://localhost/process_payment.php,4,0,0
+1768370730049,5,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-3,text,true,,5791,304,4,4,http://localhost/dashboard/,2,0,0
+1768370730049,2,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-3,text,true,,294,182,4,4,http://localhost/index.php,2,0,0
+1768370730051,3,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-3,text,true,,5497,122,4,4,http://localhost/dashboard/,3,0,0
+1768370730497,6,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-6,text,true,,5792,243,5,5,http://localhost/dashboard/,3,0,1
+1768370730497,3,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-6,text,true,,295,121,5,5,http://localhost/index.php,3,0,1
+1768370730500,3,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-6,text,true,,5497,122,5,5,http://localhost/dashboard/,3,0,0
+1768370730510,3,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-5,text,false,,535,248,5,5,http://localhost/process_booking.php,3,0,0
+1768370730541,5,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-4,text,false,,535,322,5,5,http://localhost/save_cart.php,4,0,0
+1768370731029,7,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-5,text,true,,5791,243,5,5,http://localhost/dashboard/,2,0,0
+1768370731029,2,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-5,text,true,,294,121,5,5,http://localhost/index.php,2,0,0
+1768370731032,4,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-5,text,true,,5497,122,5,5,http://localhost/dashboard/,4,0,0
+1768370731047,5,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-4,text,true,,5791,304,5,5,http://localhost/dashboard/,2,0,0
+1768370731047,2,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-4,text,true,,294,182,5,5,http://localhost/index.php,2,0,0
+1768370731049,3,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-4,text,true,,5497,122,5,5,http://localhost/dashboard/,3,0,0
+1768370731058,3,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-3,text,false,,535,194,5,5,http://localhost/process_payment.php,2,0,0
+1768370731500,13,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-7,text,true,,5792,243,5,5,http://localhost/dashboard/,4,0,1
+1768370731500,4,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-7,text,true,,295,121,5,5,http://localhost/index.php,4,0,1
+1768370731504,9,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-7,text,true,,5497,122,5,5,http://localhost/dashboard/,9,0,0
+1768370731514,2,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-6,text,false,,535,248,5,5,http://localhost/process_booking.php,2,0,0
+1768370731537,2,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-5,text,false,,535,322,5,5,http://localhost/save_cart.php,2,0,0
+1768370732024,8,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-6,text,true,,5791,243,5,5,http://localhost/dashboard/,3,0,0
+1768370732024,3,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-6,text,true,,294,121,5,5,http://localhost/index.php,3,0,0
+1768370732028,4,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-6,text,true,,5497,122,5,5,http://localhost/dashboard/,4,0,0
+1768370732040,9,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-5,text,true,,5791,304,5,5,http://localhost/dashboard/,3,0,0
+1768370732040,3,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-5,text,true,,294,182,5,5,http://localhost/index.php,3,0,0
+1768370732044,5,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-5,text,true,,5497,122,5,5,http://localhost/dashboard/,4,0,0
+1768370732053,1,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-4,text,false,,535,194,5,5,http://localhost/process_payment.php,1,0,0
+1768370732493,7,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-8,text,true,,5792,243,5,5,http://localhost/dashboard/,4,0,3
+1768370732493,4,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-8,text,true,,295,121,5,5,http://localhost/index.php,4,0,3
+1768370732497,3,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-8,text,true,,5497,122,5,5,http://localhost/dashboard/,3,0,0
+1768370732529,1,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-7,text,false,,535,248,5,5,http://localhost/process_booking.php,1,0,0
+1768370732533,1,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-6,text,false,,535,322,5,5,http://localhost/save_cart.php,1,0,0
+1768370733033,5,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-7,text,true,,5791,243,5,5,http://localhost/dashboard/,2,0,0
+1768370733033,2,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-7,text,true,,294,121,5,5,http://localhost/index.php,2,0,0
+1768370733035,3,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-7,text,true,,5497,122,5,5,http://localhost/dashboard/,3,0,0
+1768370733050,1,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-5,text,false,,535,194,5,5,http://localhost/process_payment.php,1,0,0
+1768370733049,5,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-6,text,true,,5791,304,4,4,http://localhost/dashboard/,2,0,0
+1768370733049,2,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-6,text,true,,294,182,4,4,http://localhost/index.php,2,0,0
+1768370733051,3,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-6,text,true,,5497,122,4,4,http://localhost/dashboard/,3,0,0
+1768370733489,9,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-9,text,true,,5792,243,5,5,http://localhost/dashboard/,5,0,2
+1768370733489,5,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-9,text,true,,295,121,5,5,http://localhost/index.php,5,0,2
+1768370733494,4,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-9,text,true,,5497,122,5,5,http://localhost/dashboard/,4,0,0
+1768370733508,2,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-8,text,false,,535,248,5,5,http://localhost/process_booking.php,2,0,0
+1768370733539,5,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-7,text,false,,535,322,5,5,http://localhost/save_cart.php,5,0,0
+1768370734023,6,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-8,text,true,,5791,243,5,5,http://localhost/dashboard/,3,0,0
+1768370734023,3,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-8,text,true,,294,121,5,5,http://localhost/index.php,3,0,0
+1768370734026,3,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-8,text,true,,5497,122,5,5,http://localhost/dashboard/,3,0,0
+1768370734057,3,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-6,text,false,,535,194,5,5,http://localhost/process_payment.php,3,0,0
+1768370734056,9,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-7,text,true,,5791,304,4,4,http://localhost/dashboard/,4,0,0
+1768370734056,4,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-7,text,true,,294,182,4,4,http://localhost/index.php,4,0,0
+1768370734061,4,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-7,text,true,,5497,122,4,4,http://localhost/dashboard/,4,0,0
+1768370734494,7,01 - Load Home Page,200,OK,Full Booking Flow - 10 Users 1-10,text,true,,5792,243,4,4,http://localhost/dashboard/,2,0,1
+1768370734494,2,01 - Load Home Page-0,302,Found,Full Booking Flow - 10 Users 1-10,text,true,,295,121,4,4,http://localhost/index.php,2,0,1
+1768370734496,5,01 - Load Home Page-1,200,OK,Full Booking Flow - 10 Users 1-10,text,true,,5497,122,4,4,http://localhost/dashboard/,5,0,0
+1768370734499,4,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-9,text,false,,535,248,4,4,http://localhost/process_booking.php,4,0,0
+1768370734530,1,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-8,text,false,,535,322,4,4,http://localhost/save_cart.php,1,0,0
+1768370735007,6,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-9,text,true,,5791,243,4,4,http://localhost/dashboard/,3,0,0
+1768370735007,3,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-9,text,true,,294,121,4,4,http://localhost/index.php,3,0,0
+1768370735010,3,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-9,text,true,,5497,122,4,4,http://localhost/dashboard/,3,0,0
+1768370735032,5,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-8,text,true,,5791,304,4,4,http://localhost/dashboard/,2,0,0
+1768370735032,2,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-8,text,true,,294,182,4,4,http://localhost/index.php,2,0,0
+1768370735034,3,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-8,text,true,,5497,122,4,4,http://localhost/dashboard/,3,0,0
+1768370735070,4,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-7,text,false,,535,194,4,4,http://localhost/process_payment.php,4,0,0
+1768370735503,4,02 - Submit Customer Info,404,Not Found,Full Booking Flow - 10 Users 1-10,text,false,,535,251,3,3,http://localhost/process_booking.php,4,0,0
+1768370735525,4,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-9,text,false,,535,322,3,3,http://localhost/save_cart.php,4,0,0
+1768370736008,6,03 - Load Menu Page,200,OK,Full Booking Flow - 10 Users 1-10,text,true,,5791,243,3,3,http://localhost/dashboard/,2,0,0
+1768370736008,2,03 - Load Menu Page-0,302,Found,Full Booking Flow - 10 Users 1-10,text,true,,294,121,3,3,http://localhost/index.php,2,0,0
+1768370736010,4,03 - Load Menu Page-1,200,OK,Full Booking Flow - 10 Users 1-10,text,true,,5497,122,3,3,http://localhost/dashboard/,4,0,0
+1768370736030,8,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-9,text,true,,5791,304,3,3,http://localhost/dashboard/,2,0,0
+1768370736030,2,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-9,text,true,,294,182,3,3,http://localhost/index.php,2,0,0
+1768370736033,5,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-9,text,true,,5497,122,3,3,http://localhost/dashboard/,5,0,0
+1768370736043,3,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-8,text,false,,535,194,3,3,http://localhost/process_payment.php,3,0,0
+1768370736517,9,04 - Save Cart (JSON),404,Not Found,Full Booking Flow - 10 Users 1-10,text,false,,535,322,2,2,http://localhost/save_cart.php,8,0,0
+1768370737031,10,05 - Load Payment Page,200,OK,Full Booking Flow - 10 Users 1-10,text,true,,5791,304,2,2,http://localhost/dashboard/,2,0,0
+1768370737031,2,05 - Load Payment Page-0,302,Found,Full Booking Flow - 10 Users 1-10,text,true,,294,182,2,2,http://localhost/index.php,2,0,0
+1768370737033,8,05 - Load Payment Page-1,200,OK,Full Booking Flow - 10 Users 1-10,text,true,,5497,122,2,2,http://localhost/dashboard/,8,0,0
+1768370737041,2,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-9,text,false,,535,194,2,2,http://localhost/process_payment.php,2,0,0
+1768370738042,2,06 - Process Payment,404,Not Found,Full Booking Flow - 10 Users 1-10,text,false,,535,194,1,1,http://localhost/process_payment.php,2,0,0

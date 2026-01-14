@@ -1,0 +1,11 @@
+name,email,phone,date,time,guests
+John Doe,john.doe1@test.com,60123456789,2025-02-01,18:00,2
+Jane Smith,jane.smith1@test.com,60123456790,2025-02-02,19:00,4
+Mike Johnson,mike.johnson1@test.com,60123456791,2025-02-03,20:00,3
+Sarah Williams,sarah.williams1@test.com,60123456792,2025-02-04,18:30,2
+David Brown,david.brown1@test.com,60123456793,2025-02-05,19:30,5
+Emily Davis,emily.davis1@test.com,60123456794,2025-02-06,20:30,3
+Robert Wilson,robert.wilson1@test.com,60123456795,2025-02-07,18:00,2
+Lisa Anderson,lisa.anderson1@test.com,60123456796,2025-02-08,19:00,4
+James Taylor,james.taylor1@test.com,60123456797,2025-02-09,20:00,3
+Maria Garcia,maria.garcia1@test.com,60123456798,2025-02-10,18:30,2
